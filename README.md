@@ -5,4 +5,4 @@ Just a repo that has a bunch of lessons I have to help with schooling during the
 ## Books
 
 1.  Goosebumps
-  1. #7 Night of the Living Dummy
+    1. #7 Night of the Living Dummy
